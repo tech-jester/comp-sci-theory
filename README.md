@@ -8,3 +8,8 @@ for all you fellas
 
 [Day 3](./1-30-2024.md): Deterministic Finite Automation (DFA)
 
+Day 4: ??
+
+[Day 5](./02-08-2024.md): Review on DFA combinations
+
+
