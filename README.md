@@ -12,4 +12,7 @@ Day 4: ??
 
 [Day 5](./02-08-2024.md): Review on DFA combinations
 
+[Day 6](./02-13-2024.md): Review on Homework and into to Non-Deterministic Finite Automaton
+
+
 
