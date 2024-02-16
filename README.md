@@ -14,5 +14,7 @@ Day 4: ??
 
 [Day 6](./02-13-2024.md): Review on Homework and into to Non-Deterministic Finite Automaton
 
+[Day 7](./02-15-2024.md): Nondeterministic Finite Automaton
+
 
 
